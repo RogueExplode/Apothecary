@@ -23,8 +23,8 @@
   <script src="scripts/index.js"></script>
 </body>
 <ul>
-  <li> <a href="#">Page 1<la> </li>
-  <li> <a href="file1.html">Page 2</a> </li>
+  <li> <a href="File2History">History<la> </li>
+  <li> <a href="File3Jobs">Occupations</a> </li>
 
 
 </html>
