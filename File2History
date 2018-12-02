@@ -11,12 +11,19 @@
 <link
 </head>
 <body>
-  <h1 title=" Apothercary">Apothecary</h1>
-  <p> What is an apothecary? The question has been debated through out the years, but really, the profession is a mix of <br/>
-  </p> a pharmacist and herbalist
-  <img src="" alt ="Apothecary"<img/>
-  <img src="Apothecary" alt="Apothecary" width="12" height="12"<img/>
-<img src="Apothecary" alt="Apothecary" style="width:12px;height:12px;">
+  <h1 title="Apothercary History">Apothecary History</h1>
+  <p>Apothecary (/əˈpɒθɪkəri/) is one term for a medical professional who formulates and dispenses materia medica to physicians, surgeons,</br> 
+  <p/>and patients. The modern pharmacist (also colloquially referred to as a chemist in British English) has taken over this role.</br> 
+  <p/>In some languages and regions, the word "apothecary" is still used to refer to a retail pharmacy or a pharmacist who owns one.</br> 
+  <p/>Apothecaries' investigation of herbal and chemical ingredients was a precursor to the modern sciences of chemistry and pharmacology.</br>
+<p/> </br>
+<p/>In addition to dispensing herbs and medicine, the apothecary offered general medical advice and a range of services that are now performed</br> 
+<p/>by other specialist practitioners, such as surgeons and obstetricians. Apothecary shops sold ingredients and the medicines they prepared</br> 
+<p/>wholesale to other medical practitioners, as well as dispensing them to patients. In seventeenth century England, they also controlled</br>
+<p/>the trade of tobacco which was imported as a medicine.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Chinese_Apothecary_1.JPG" alt ="Apothecary2"<img/>
+  <img src="Apothecary2" alt="Apothecary2" width="12" height="12"<img/>
+<img src="Apothecary2" alt="Apothecary2" style="width:12px;height:12px;">
 
   <!-- Scripts -->
   <script src="scripts/index.js"></script>
@@ -24,3 +31,4 @@
 
 
 </html>
+1
