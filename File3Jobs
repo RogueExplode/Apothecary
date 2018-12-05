@@ -12,11 +12,13 @@
 </head>
 <body>
   <h1 title=" Apothercary">Apothecary</h1>
-  <p> What is an apothecary? The question has been debated through out the years, but really, the profession is a mix of <br/>
+  <p>To become a practicing herbalist, the American Herbalists Guild recommends a program of at least 1600 hours of study at a<br/>
+  <p>school of herbal medicine, including a 400-hour clinical requirement. Naturopathic physicians must complete a bachelor's<br>
+  <p>degree as well as a 4-year Doctor of Naturopathic Medicine (ND) program.<br/>
   </p> a pharmacist and herbalist
-  <img src="" alt ="Apothecary"<img/>
-  <img src="Apothecary" alt="Apothecary" width="12" height="12"<img/>
-<img src="Apothecary" alt="Apothecary" style="width:12px;height:12px;">
+  <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwil54bzvYnfAhU8GDQIHSPgBcsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.thebabbgroup.com%2Fservices-for-professors%2Fjob-application-services%2Fjob-application-submission-packages.html&psig=AOvVaw1wBc0kHeOX-Zf4ivqiSAEf&ust=1544126568706366 alt ="Apothecary4"<img/>
+  <img src="Apothecary4" alt="Apothecary4" width="12" height="12"<img/>
+<img src="Apothecary4" alt="Apothecary4" style="width:12px;height:12px;">
 
   <!-- Scripts -->
   <script src="scripts/index.js"></script>
